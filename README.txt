@@ -1,0 +1,1 @@
+Place background1.png through background5.png alongside index.html. All five backgrounds are scaled to 100% 100% of the viewport (no cropping). Edit the x, y, size values in script.js for each image to align the square camera with its transparent mirror opening. Current defaults preserve your existing 50%, 70%, 45% placement. Open via localhost or HTTPS for webcam access.
